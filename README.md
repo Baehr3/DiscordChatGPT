@@ -1,5 +1,6 @@
 # DiscordChatGPT
 A Discord bot with ChatGPT integration
+- Last revision 2023 Jan 08
 
 ## Prefix
 The Default prefix for this bot is @
